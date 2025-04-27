@@ -37,12 +37,6 @@ I recommend keeping the project running as you go (with `npm start`) to help cor
 
 ### Deploy
 
-See deployment instructions [here](https://github.com/mldangelo/personal-site#deploying-to-github-pages). If you plan to use a custom url, modify `public/CNAME` and enter your URL. You can run:
-
-```bash
-echo "[your-custom-domain][.com]" > public/CNAME
-```
-
 as a shortcut.
 
 I recommend purchasing your own domain name from [Google Domains](https://domains.google). The project is pre-configured to automatically deploy to github pages via the deploy github action. Go to `https://github.com/[your-github-username]/[your-repo-name]/settings` and configure accordingly:
