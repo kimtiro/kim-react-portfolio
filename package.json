@@ -1,11 +1,11 @@
 {
+  "homepage": "https://kimtiro.github.io/kim-react-portfolio",
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://kimtiro.github.io/kim-react-portfolio",,
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/kimtiro/kim-react-portfolio.git"
   },
   "engines": {
     "node": ">=16.x"
@@ -17,7 +17,7 @@
     "predeploy": "npm run build && react-snap",
     "start": "react-scripts start",
     "test": "npx jest",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
