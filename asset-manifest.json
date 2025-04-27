@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/kim-react-portfolio/static/css/main.3fc8ac9a.css",
+    "main.js": "/kim-react-portfolio/static/js/main.2b848e77.js",
+    "static/js/818.2e1045d1.chunk.js": "/kim-react-portfolio/static/js/818.2e1045d1.chunk.js",
+    "static/js/996.130ee5cd.chunk.js": "/kim-react-portfolio/static/js/996.130ee5cd.chunk.js",
+    "static/js/807.39378302.chunk.js": "/kim-react-portfolio/static/js/807.39378302.chunk.js",
+    "static/js/900.815301c4.chunk.js": "/kim-react-portfolio/static/js/900.815301c4.chunk.js",
+    "static/js/899.33d67fc4.chunk.js": "/kim-react-portfolio/static/js/899.33d67fc4.chunk.js",
+    "static/js/184.9bbe77fc.chunk.js": "/kim-react-portfolio/static/js/184.9bbe77fc.chunk.js",
+    "static/js/362.19a4a5cd.chunk.js": "/kim-react-portfolio/static/js/362.19a4a5cd.chunk.js",
+    "static/js/147.48198676.chunk.js": "/kim-react-portfolio/static/js/147.48198676.chunk.js",
+    "static/js/27.dc77458d.chunk.js": "/kim-react-portfolio/static/js/27.dc77458d.chunk.js",
+    "static/js/574.6c85020d.chunk.js": "/kim-react-portfolio/static/js/574.6c85020d.chunk.js",
+    "index.html": "/kim-react-portfolio/index.html",
+    "static/media/about.md": "/kim-react-portfolio/static/media/about.b21ba2fd5399b4c06cf7.md",
+    "main.3fc8ac9a.css.map": "/kim-react-portfolio/static/css/main.3fc8ac9a.css.map",
+    "main.2b848e77.js.map": "/kim-react-portfolio/static/js/main.2b848e77.js.map",
+    "818.2e1045d1.chunk.js.map": "/kim-react-portfolio/static/js/818.2e1045d1.chunk.js.map",
+    "996.130ee5cd.chunk.js.map": "/kim-react-portfolio/static/js/996.130ee5cd.chunk.js.map",
+    "807.39378302.chunk.js.map": "/kim-react-portfolio/static/js/807.39378302.chunk.js.map",
+    "900.815301c4.chunk.js.map": "/kim-react-portfolio/static/js/900.815301c4.chunk.js.map",
+    "899.33d67fc4.chunk.js.map": "/kim-react-portfolio/static/js/899.33d67fc4.chunk.js.map",
+    "184.9bbe77fc.chunk.js.map": "/kim-react-portfolio/static/js/184.9bbe77fc.chunk.js.map",
+    "362.19a4a5cd.chunk.js.map": "/kim-react-portfolio/static/js/362.19a4a5cd.chunk.js.map",
+    "147.48198676.chunk.js.map": "/kim-react-portfolio/static/js/147.48198676.chunk.js.map",
+    "574.6c85020d.chunk.js.map": "/kim-react-portfolio/static/js/574.6c85020d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc8ac9a.css",
+    "static/js/main.2b848e77.js"
+  ]
+}
